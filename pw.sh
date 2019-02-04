@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 PASS="abc123"
 read -s -p "Password: " mypassword
 echo ""
