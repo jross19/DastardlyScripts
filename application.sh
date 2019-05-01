@@ -1,1 +1,1 @@
-open /Applications/*
+open /**/*
